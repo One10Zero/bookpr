@@ -89,3 +89,4 @@ This entry increases an asset (Office Supplies) and decreases another asset (Cas
 | Expenses | Debit | Credit |
 
 
+> notes
