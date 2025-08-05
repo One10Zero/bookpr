@@ -1,13 +1,13 @@
 # Ledger
-# Accounts Payable
+# Office Supplies Expense
 
 ---
 
-## Entries
+## Entries 
 
 
 | Date | Description | Debit | Credit | Balance |
 | :--: | :--: | :--: | :--: | :--: |
-| August 4 | Computer on Credit | | 1000 | 1000 |
+| August 4 | Office Supplies in cash | 250 |  | 250 |
 
 

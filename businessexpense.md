@@ -1,5 +1,5 @@
 # Ledger
-# Accounts Payable
+# Busness Expense
 
 ---
 
@@ -8,6 +8,6 @@
 
 | Date | Description | Debit | Credit | Balance |
 | :--: | :--: | :--: | :--: | :--: |
-| August 4 | Computer on Credit | | 1000 | 1000 |
+| August 4 | Bookkeeping Software subscription | 60 |  | 60 |
 
 
