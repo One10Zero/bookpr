@@ -24,6 +24,29 @@
 | August 4 | Bookkeping Software subscrition | | 60 | 3490 |
 
 
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 5 | Office supplies in cash | | 300 | 3190 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 5 | Service for a client recieved in cash | 1200 |  | 4390 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 5 | Outstanding bill from last month |  | 1200 | 3190 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 5 | Service for a client recieved in cash | 1200 |  | 4390 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 5 | Owner withdrew 500 |  | 500 | 3890 |
 
 
 

@@ -1,5 +1,5 @@
 # Ledger
-# Revenue
+# Utility Expenses
 
 ---
 
@@ -8,6 +8,7 @@
 
 | Date | Description | Debit | Credit | Balance |
 | :--: | :--: | :--: | :--: | :--: |
-| August 5 | Service for a client recieved in cash |  | 1200 | 1200 |
+| August 5 | Outstanding bill from last month | 1200 |  | 1200 |
+
 
 

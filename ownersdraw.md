@@ -1,5 +1,5 @@
 # Ledger
-# Revenue
+# Owners Draw
 
 ---
 
@@ -8,6 +8,7 @@
 
 | Date | Description | Debit | Credit | Balance |
 | :--: | :--: | :--: | :--: | :--: |
-| August 5 | Service for a client recieved in cash |  | 1200 | 1200 |
+| August 5 | Owner withdrew 500 | 500 |  | 500 |
+
 
 
