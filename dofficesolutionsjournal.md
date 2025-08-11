@@ -84,6 +84,46 @@
 > in ledger
 
 
+| Date | Account | Debit | Credit | Description |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Busness Expenses | 500 |  |  |
+| | Cash |  | 500 |  | 
+| |  |  |  | Paid Cash for Advertisment in a local newspaper |
+> in ledger
+
+
+| Date | Account | Debit | Credit | Description |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Office Supplies | 300 |  |  |
+| | Accounts payable |  | 300 |  | 
+| |  |  |  | Office supplies in account from Office Depot |
+> in ledger
+
+
+| Date | Account | Debit | Credit | Description |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Accounts Recievable | 1200 |  |  |
+| | Revenue |  | 1200 |  | 
+| |  |  |  | billed a client 1200 for service |
+> in ledger
+
+
+| Date | Account | Debit | Credit | Description |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Cash | 750 |  |  |
+| | Unerned Revenue |  | 750 |  | 
+| |  |  |  | Paid by client for service to be performed next week |
+> in ledger
+
+| Date | Account | Debit | Credit | Description |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Owners Draw | 400 |  |  |
+| | Cash |  | 400 |  | 
+| |  |  |  | Owner withdrew 400 in cash |
+> in ledger
+
+
+
 ### Rule of debit and credit
 
 | Account Type | Increase | Decrease |

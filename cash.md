@@ -49,4 +49,18 @@
 | August 5 | Owner withdrew 500 |  | 500 | 3890 |
 
 
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Paid Cash for advertisment in a local newspaper |  | 500 | 3390 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Paid by client for service to be done next week | 750 |  | 4140 |
+
+
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Owner withdrew 400 in cash |  | 400 | 3740 |
+
 

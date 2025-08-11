@@ -14,4 +14,8 @@
 | :--: | :--: | :--: | :--: | :--: |
 | August 5 | Equipment on Credit | | 2500 | 3500 |
 
+| Date | Description | Debit | Credit | Balance |
+| :--: | :--: | :--: | :--: | :--: |
+| August 6 | Office supplies in account from Office Depot | | 300 | 3800 |
+
 
